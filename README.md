@@ -1,3 +1,9 @@
+# RP NOTICE
+
+This fork is not maintained, but we have it due to the need to upgrade psr/log across the platform. Please consult with the core team(s) if changes are required here. As noted below, the upstream repo is dead and deprecated, so we effectively own this until a replacement is found.
+
+No automated tests or release process. Test fail to run on PHP 8 anyhow. To make a new release, a manual tag is required. Again, consult with core teams if changes are necessary here.
+
 # Deprecation Notice:
 This SDK is deprecated. You can continue to use it, but no new features or support requests will be accepted.
 For alternatives, please visit [the current SDK homepage on the PayPal Developer Portal](https://developer.paypal.com/docs/api/rest-sdks/)
